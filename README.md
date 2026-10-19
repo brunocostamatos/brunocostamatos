@@ -1,6 +1,8 @@
 ### Olá, eu sou o Bruno! 👋
 
-Sou um **Desenvolvedor Front-end & Mobile** baseado no Rio de Janeiro, com mais de 6 anos de experiência construindo sistemas web e aplicativos escaláveis para os setores público e privado.
+### Rio de Janeiro, Brasil
+
+Sou **Desenvolvedor de Software** com mais de 6 anos de experiência em JavaScript, Flutter, PHP e React, atuando no desenvolvimento de sistemas de alta relevância nos setores público e privado. Destaco a elaboração e desenvolvimento de soluções para a inteligência marítima brasileira, incluindo soluções voltadas à apresentação e melhor compreensão de informações, e um aplicativo para consumo de conteúdo acadêmico.
 
 - 🌐 Portfólio: [brunocostamatos.com.br](https://www.brunocostamatos.com.br).
 - 📱 Experiência sólida no desenvolvimento multiplataforma com **Flutter** e aplicações de mapeamento web com **OpenLayers**.
