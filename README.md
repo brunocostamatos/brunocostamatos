@@ -20,13 +20,7 @@ Sou um **Desenvolvedor Front-end & Mobile** baseado no Rio de Janeiro, com mais 
 
 * **SISTRAM (Marinha do Brasil / Polícia Federal):** Otimização de estabilidade e consultas de rastreamento de embarcações.
 * **MobiSaúde:** Co-autor de pesquisa e sistema de mHealth para apoio a agentes de saúde comunitária na Prefeitura do Rio de Janeiro.
-* **uaiCup (Embrapa / UFRJ):** Primeiro lugar no Hackathon Vacathon 2020.
+* **Dandarah-IoT (Fiocruz / UFRJ):** Co-autor de pesquisa e sistema de IoT para obter dados de violência contra a população LGBTQIA+, com foco na população transexual.
+* **uaiCup (Embrapa Gado de Leite/ UFRJ):** Primeiro lugar no Hackathon Vacathon 2020.
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=brunocostamatos&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocostamatos&layout=compact&theme=radical" />
-</p>
