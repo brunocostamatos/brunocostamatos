@@ -24,7 +24,8 @@ Tenho mais de 6 anos de experiência em JavaScript, Flutter, PHP e React, atuand
 ### 🚀 Principais Projetos & Trabalhos
 
 * **SISTRAM (Marinha do Brasil):** Otimização de estabilidade e consultas de rastreamento de embarcações. Desenvolvimento de inteligência marítima.
-* **MobiSaúde:** Co-autor de pesquisa e sistema de mHealth para apoio a agentes de saúde comunitária na Prefeitura do Rio de Janeiro.
+* **Associação Educacional Universidade Atitude:** Desenvolvimento de aplicativo mobile para consumo das aulas e materiais didáticos da faculdade. Criação e otimização de landing pages para conversão institucional.
+* **MobiSaúde (Prefeitura RJ / UFRJ):** Co-autor de pesquisa e sistema de mHealth para apoio a agentes de saúde comunitária na Prefeitura do Rio de Janeiro.
 * **Dandarah-IoT (Fiocruz / UFRJ):** Co-autor de pesquisa e sistema de IoT para obter dados de violência contra a população LGBTQIA+, com foco na população transexual.
 * **uaiCup (Embrapa Gado de Leite/ UFRJ):** Primeiro lugar no Hackathon Vacathon 2020 com caneca que realiza a análise da qualidade do leite e rastreio de antibióticos, conferindo vantagens para o pequeno e médio produtor.
 
