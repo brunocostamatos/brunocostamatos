@@ -21,7 +21,7 @@ Tenho mais de 6 anos de experiência em JavaScript, Flutter, PHP e React, atuand
 
 ---
 
-### 🚀 Principais Projetos & Trabalhos
+### 🚀 Principais Trabalhos & Projetos
 
 * **SISTRAM (Marinha do Brasil):** Otimização de estabilidade e consultas de rastreamento de embarcações. Desenvolvimento de inteligência marítima.
 * **Associação Educacional Universidade Atitude:** Desenvolvimento de aplicativo mobile para consumo das aulas e materiais didáticos da faculdade. Criação e otimização de landing pages para conversão institucional.
