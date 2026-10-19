@@ -3,12 +3,12 @@
 <p align="left">
   <span>📍 Rio de Janeiro, Brasil</span> &nbsp;&nbsp;|&nbsp;&nbsp;
   <span>💻 Front-end & Mobile Developer</span> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <span>🚀 <a href="https://www.brunocostamatos.com.br">brunocostamatos.com.br</a></span>
+  <span>🌐 <a href="https://www.brunocostamatos.com.br">brunocostamatos.com.br</a></span>
+  <span>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-costa-de-matos)</span>
 </p>
 
 Tenho mais de 6 anos de experiência em JavaScript, Flutter, PHP e React, atuando no desenvolvimento de sistemas de alta relevância nos setores público e privado. Destaco a elaboração e desenvolvimento de soluções para a inteligência marítima brasileira, incluindo soluções voltadas à apresentação e melhor compreensão de informações, e um aplicativo para consumo de conteúdo acadêmico.
 
-- 🌐 Portfólio: [brunocostamatos.com.br](https://www.brunocostamatos.com.br).
 - 📱 Experiência sólida no desenvolvimento multiplataforma com **Flutter** e aplicações de mapeamento web com **OpenLayers**.
 - ✉️ Você pode entrar em contato comigo pelo [e-mail](mailto:brunocostamatos@gmail.com) ou pelo meu [LinkedIn](https://linkedin.com/in/bruno-costa-de-matos/).
 
