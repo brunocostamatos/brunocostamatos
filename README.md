@@ -1,4 +1,4 @@
-### Olá, eu sou o Bruno!
+### Olá, me chamo Bruno Costa!
 
 <p align="left">
   <span>Front-end & Mobile Developer</span> &nbsp;&nbsp;|&nbsp;&nbsp;
