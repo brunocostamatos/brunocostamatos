@@ -1,6 +1,10 @@
 ### Olá, eu sou o Bruno! 👋
 
-Desenvolvedor Front-end & Mobile | 📍 Rio de Janeiro, Brasil
+<p align="left">
+  <span>📍 Rio de Janeiro, Brasil</span> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <span>💻 Front-end & Mobile Developer</span> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <span>🚀 <a href="https://www.brunocostamatos.com.br">brunocostamatos.com.br</a></span>
+</p>
 
 Tenho mais de 6 anos de experiência em JavaScript, Flutter, PHP e React, atuando no desenvolvimento de sistemas de alta relevância nos setores público e privado. Destaco a elaboração e desenvolvimento de soluções para a inteligência marítima brasileira, incluindo soluções voltadas à apresentação e melhor compreensão de informações, e um aplicativo para consumo de conteúdo acadêmico.
 
