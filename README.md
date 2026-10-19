@@ -11,7 +11,7 @@ Sou um **Desenvolvedor Front-end & Mobile** baseado no Rio de Janeiro, com mais 
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,flutter,react,vue,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,sql,bootstrap,jquery,postgresql,flutter,react,git,github,vscode,figma" />
 </p>
 
 ---
