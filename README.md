@@ -9,7 +9,7 @@
 Tenho mais de 6 anos de experiência em JavaScript, Flutter, PHP e React, atuando no desenvolvimento de sistemas de alta relevância nos setores público e privado. Destaco a elaboração e desenvolvimento de soluções para a inteligência marítima brasileira, incluindo soluções voltadas à apresentação e melhor compreensão de informações, e um aplicativo para consumo de conteúdo acadêmico.
 
 - 📱 Experiência sólida no desenvolvimento multiplataforma com **Flutter** e aplicações de mapeamento web com **OpenLayers**.
-- ✉️ Você pode entrar em contato comigo pelo [e-mail brunocostamatos@gmail.com](mailto:brunocostamatos@gmail.com) ou pelo meu [LinkedIn](https://linkedin.com/in/bruno-costa-de-matos/).
+- ✉️ Você pode entrar em contato comigo pelo e-mail [brunocostamatos@gmail.com](mailto:brunocostamatos@gmail.com) ou pelo meu [LinkedIn](https://linkedin.com/in/bruno-costa-de-matos/).
 
 ---
 
