@@ -2,16 +2,15 @@
 
 Sou um **Desenvolvedor Front-end & Mobile** baseado no Rio de Janeiro, com mais de 6 anos de experiência construindo sistemas web e aplicativos escaláveis para os setores público e privado.
 
-- 💻 Atualmente focado em arquiteturas modernas, PWA, acessibilidade (WCAG) e performance web.
 - 📱 Experiência sólida no desenvolvimento multiplataforma com **Flutter** e aplicações de mapeamento web com **OpenLayers**.
-- ✉️ Você pode entrar em contato comigo pelo [e-mail](mailto:seu-email@exemplo.com) ou pelo meu [LinkedIn](https://linkedin.com/in/seu-usuario).
+- ✉️ Você pode entrar em contato comigo pelo [e-mail](mailto:brunocostamatos@gmail.com) ou pelo meu [LinkedIn](https://linkedin.com/in/bruno-costa-de-matos/).
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,php,python,sql,flutter,react,html,css,bootstrap,jquery,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,php,python,flutter,react,html,css,bootstrap,jquery,git,github,figma,vscode,openlayers" />
 </p>
 
 ---
